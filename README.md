@@ -1,5 +1,5 @@
 Hi I am Vasu Gupta.
-Right now I am pursuing my student at JECRC Foundation, Jaipur.
+Right now I am pursuing my B.Tech at JECRC Foundation, Jaipur.
 I am a website developer more accurately a Frontend Developer.
 Currently, working on improving myself on React JS.
 Earned Experience in Adobe After Effects and Adobe Premiere Pro.
